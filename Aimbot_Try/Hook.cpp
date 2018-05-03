@@ -440,7 +440,7 @@ HRESULT __stdcall myDrawIndexedPrimitive(LPDIRECT3DDEVICE9 Device, D3DPRIMITIVET
 }
 
 
-
+//Does Nothing ATM
 bool INITIALIZED = false;
 
 HRESULT __stdcall myEndScene(LPDIRECT3DDEVICE9 Device)
